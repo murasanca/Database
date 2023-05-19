@@ -1,10 +1,12 @@
 # Database
-<img alt="Murat Sancak" src="https://github.com/murasanca/Database/blob/main/MS/msW7680x4320.png">
+<img alt="Murat Sancak" src="https://github.com/murasanca/Database/blob/main/MS/msW1920x1080.png">
 <hr>
-<a href="mailto:murasanca@pm.me" target="_blank">murasanca@pm.me</a>
-<br><br>
-Murat Sancak
-<br>
-@murasanca
-<br>
-∞
+<p>
+	<a href="mailto:murasanca@pm.me" target="_blank">murasanca@pm.me</a>
+	<br>
+	Murat Sancak
+	<br>
+	<a href="https://www.murasanca.com" target="_blank">murasanca</a>
+	<br>
+	∞
+</p>
