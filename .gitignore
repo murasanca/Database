@@ -1,0 +1,13 @@
+# macOS metadata
+.AppleDouble
+.DS_Store
+.LSOverride
+.Spotlight-V100/
+.Trashes/
+._*
+__MACOSX/
+
+# Windows metadata
+$RECYCLE.BIN/
+Desktop.ini
+Thumbs.db
